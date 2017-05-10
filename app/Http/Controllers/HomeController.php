@@ -33,14 +33,4 @@ class HomeController extends Controller {
 		return view('home');
 	}
 
-	public function toMeo()
-	{
-		return view('meo');
-	}
-
-	public function toBienBao()
-	{
-		return view('bienBao');
-	}
-
 }

@@ -44,7 +44,7 @@
 								Tổng hợp kết quả các câu hỏi.
 							</div>
 							<p>
-								<a class="btn btn-primary" href="#">Xem</a>
+								<a class="btn btn-primary" href="cauhoi">Xem</a>
 							</p>
 						</div>
 					</div>
@@ -82,10 +82,10 @@
 						<img alt="Các dạng bài thi" src="5.jpg">
 						<div class="caption">
 							<h3>
-								Các dạng bài thi
+								Các dạng thi
 							</h3>
 							<p>
-								<a class="btn btn-primary" href="#">Xem</a>
+								<a class="btn btn-primary" href="dangthi">Xem</a>
 							</p>
 						</div>
 					</div>

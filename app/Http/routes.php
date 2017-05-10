@@ -21,6 +21,10 @@ Route::get('/doExam', 'DoExamController@doexam');
 Route::get('meo', "WelcomeController@toMeo");
 
 Route::get('bienbao', "WelcomeController@toBienBao");
+
+Route::get('cauhoi', "WelcomeController@toCauHoi");
+
+Route::get('dangthi', "WelcomeController@toDangThi");
 		
 Route::post('/doExam', 'DoExamController@showresults');
 
