@@ -52,4 +52,9 @@ class WelcomeController extends Controller {
 	{
 		return view('dangThi');
 	}
+
+	public function chooseexam()
+	{
+		return view('chooseExam');
+	}
 }

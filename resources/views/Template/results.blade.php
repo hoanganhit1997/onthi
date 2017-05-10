@@ -106,10 +106,6 @@
 		<div class="col-md-1">
         </div>
 	</div>
-	<br><br>
-	<div class="row" style="text-align: center;">
-		<a class="btn btn-primary" href="doExam">Thi lại</a>
-		<p>  </p>
-		<a class="btn btn-primary" href="/">Kết thúc</a>
-	</div>
+    <br /><br />
+    <center><a class="btn btn-primary btn-lg" href="/">Trang chủ</a></center>
 @stop

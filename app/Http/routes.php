@@ -28,6 +28,10 @@ Route::get('dangthi', "WelcomeController@toDangThi");
 		
 Route::post('/doExam', 'DoExamController@showresults');
 
+Route::get('doExam/{id}','DoExamController@doexamwithid');
+
+Route::get('chooseExam','WelcomeController@chooseexam');
+
 Route::controllers([
 	'auth' => 'Auth\AuthController',
 	'password' => 'Auth\PasswordController',

@@ -9,7 +9,7 @@
 								Đề ngẫu nhiên
 							</h3>
 							<div>
-								Ôn thi với các câu hỏi tổng hợp từ các mức độ khác nhau.
+								Ôn thi với các câu hỏi ngẫu nhiên từ thư viện câu hỏi.
 							</div>
 							<p>
 								<a class="btn btn-primary" href="doExam">Bắt đầu</a>
@@ -25,10 +25,10 @@
 								Thi theo bộ đề
 							</h3>
 							<div>
-								Ôn thi với các bộ câu hỏi tương ứng với trình độ khác nhau.
+								Ôn thi với các bộ câu hỏi tương ứng với các dạng thi.
 							</div>
 							<p>
-								<a class="btn btn-primary" href="doExam">Bắt đầu</a> 
+								<a class="btn btn-primary" href="chooseExam">Bắt đầu</a> 
 							</p>
 						</div>
 					</div>
