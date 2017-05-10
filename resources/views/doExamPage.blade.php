@@ -75,9 +75,9 @@ function getanswer($number,$row){
                     <br /><br />
 		<?php }
 			if($key == "img_src") { ?>
-            <center><img src=
+            <center><img src="
 		<?php echo "picture/".$val; ?>
-        	 alt = ""/></center>
+        	" alt = ""/></center>
 		<?php }
 			if ($key == "c0"){?>
             <div class="row">
