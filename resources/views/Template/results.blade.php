@@ -105,10 +105,11 @@
          </div>
 		<div class="col-md-1">
         </div>
-        <br><br><br>
 	</div>
+	<br><br><br>
 	<div class="row" style="text-align: center;">
 		<a class="btn btn-primary" href="doExam">Thi lại</a>
+		<p>  </p>
 		<a class="btn btn-primary" href="/">Kết thúc</a>
 	</div>
 @stop
