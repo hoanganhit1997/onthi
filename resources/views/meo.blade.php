@@ -9,11 +9,11 @@
 			<li><a href="#kithuat" class="btn btn-link" type="button">KỸ THUẬT LÁI XE</a> </li>
 			<li><a href="#quytac" class="btn btn-link" type="button">QUY TẮC VÀ QUY ĐỊNH</a> </li>
 			<li><a href="#meo" class="btn btn-link" type="button">CÁC MẸO CÂU TRẢ LỜI KHÁC</a></li>
-			</ol>
+			</ol>	
+			<a name = "khainiem"></a>
 			<br> 
 				<p></p>
-			<br>	
-			<a name = "khainiem"></a>		
+			<br>		
 			<h3 class="text-danger" style="text-align:center;">
 				KHÁI NIỆM
 			</h3>

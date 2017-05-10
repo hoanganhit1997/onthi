@@ -6,11 +6,11 @@
 	<ol>
 		<li><a href="#xemay" class="btn btn-link" type="button">Xe máy</a> </li>
 		<li><a href="#xeoto" class="btn btn-link" type="button">Xe ô tô</a> </li>
-	</ol>
+	</ol>	
+	<a name = "xemay"></a>
 	<br> 
 		<p></p>
-	<br>	
-	<a name = "xemay"></a>
+	<br>
 	<h2 class="text-danger" style="text-align:center;">
 				Xe máy
 	</h2>
@@ -106,6 +106,7 @@
 		<a href="#" class="btn" type="button">Về đầu trang</a>
 	<br> 
 	<a name = "xeoto"></a>
+	<p></p>
 	<h2 class="text-danger" style="text-align:center;">
 				Xe ô tô
 	</h2>
