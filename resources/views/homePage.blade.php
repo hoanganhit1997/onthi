@@ -1,6 +1,6 @@
 @extends('Template/header')
 @section('page')
-			<div class="row" style="margin-top: 70px;">
+			<div class="row" style="margin-top: 10px;">
 				<div class="col-md-4">
 					<div class="thumbnail">
 						<img alt="Đề ngẫu nhiên" src="1.jpg">

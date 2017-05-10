@@ -106,7 +106,7 @@
 		<div class="col-md-1">
         </div>
 	</div>
-	<br><br><br>
+	<br><br>
 	<div class="row" style="text-align: center;">
 		<a class="btn btn-primary" href="doExam">Thi lại</a>
 		<p>  </p>

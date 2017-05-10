@@ -18,9 +18,9 @@ Route::get('home', 'HomeController@index');
 
 Route::get('/doExam', 'DoExamController@doexam');
 
-Route::get('meo', "HomeController@toMeo");
+Route::get('meo', "WelcomeController@toMeo");
 
-Route::get('bienbao', "HomeController@toBienBao");
+Route::get('bienbao', "WelcomeController@toBienBao");
 		
 Route::post('/doExam', 'DoExamController@showresults');
 

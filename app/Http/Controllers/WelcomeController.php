@@ -33,5 +33,13 @@ class WelcomeController extends Controller {
 		return view('homePage');
 	}
 	
-	
+	public function toMeo()
+	{
+		return view('meo');
+	}
+
+	public function toBienBao()
+	{
+		return view('bienBao');
+	}
 }
