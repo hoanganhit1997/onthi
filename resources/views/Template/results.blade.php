@@ -106,4 +106,8 @@
 		<div class="col-md-1">
         </div>
 	</div>
+	<div class="row" style="text-align: center;">
+		<a class="btn btn-primary" href="doExam">Thi lại</a>
+		<a class="btn btn-primary" href="/">Kết thúc</a>
+	</div>
 @stop
