@@ -100,9 +100,11 @@
 				<li>
 					Khái niệm "Hàng siêu trường, siêu trọng".
 				</li>
-			</ul> <a href="#" class="btn" type="button">Về đầu trang</a>
+			</ul>
 			<a name = "cautao"></a>
-			<p></p>
+			<br> 
+			<a href="#" class="btn" type="button">Về đầu trang</a>
+			<br> 
 			<h3 class="text-danger" style="text-align:center;">
 				CẤU TẠO VÀ SỬA CHỮA
 			</h3>
@@ -180,9 +182,11 @@
 				<li>
 					Niên hạn sử dụng của ô tô tải.
 				</li>
-			</ul> <a href="#" class="btn" type="button">Về đầu trang</a>
+			</ul>
 			<a name = "kithuat"></a>
-			<p></p>
+			<br> 
+			<a href="#" class="btn" type="button">Về đầu trang</a>
+			<br> 
 			<h3 class="text-danger" style="text-align:center;">
 				KỸ THUẬT LÁI XE
 			</h3>
@@ -282,9 +286,11 @@
 				<li>
 					Để đạt hiệu quả phanh cao nhất, người lái xe thực hiện các thao tác...
 				</li>
-			</ul> <a href="#" class="btn" type="button">Về đầu trang</a>
+			</ul>
 			<a name = "quytac"></a>
-			<p></p>
+			<br> 
+			<a href="#" class="btn" type="button">Về đầu trang</a>
+			<br> 
 			<h3 class="text-danger" style="text-align:center;">
 				QUY TẮC VÀ QUY ĐỊNH
 			</h3>
@@ -520,9 +526,11 @@
 				<li>
 					Khi có tín hiệu của xe ưu tiên, người tham gia giao thông phải làm gì?
 				</li>
-			</ul> <a href="#" class="btn" type="button">Về đầu trang</a>
+			</ul>
 			<a name = "meo"></a>
-			<p></p>
+			<br> 
+			<a href="#" class="btn" type="button">Về đầu trang</a>
+			<br> 
 			<h3 class="text-danger" style="text-align:center;">
 				CÁC MẸO CÂU TRẢ LỜI KHÁC
 			</h3>
