@@ -10,8 +10,10 @@
 			<li><a href="#quytac" class="btn btn-link" type="button">QUY TẮC VÀ QUY ĐỊNH</a> </li>
 			<li><a href="#meo" class="btn btn-link" type="button">CÁC MẸO CÂU TRẢ LỜI KHÁC</a></li>
 			</ol>
-			<a name = "khainiem"></a>
-			<p></p>
+			<br> 
+				<p></p>
+			<br>	
+			<a name = "khainiem"></a>		
 			<h3 class="text-danger" style="text-align:center;">
 				KHÁI NIỆM
 			</h3>

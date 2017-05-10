@@ -1,10 +1,15 @@
 @extends('Template/header')
 @section('page')
-	<h1 class="text-danger" style="text-align:center;">Các dạng thi lái xe</h3>
+	<h1 style="margin-top: 40px; text-align:center;"><strong class="text-info" >
+			Các dạng thi lái xe
+	</strong></h1> 
 	<ol>
 		<li><a href="#xemay" class="btn btn-link" type="button">Xe máy</a> </li>
 		<li><a href="#xeoto" class="btn btn-link" type="button">Xe ô tô</a> </li>
 	</ol>
+	<br> 
+		<p></p>
+	<br>	
 	<a name = "xemay"></a>
 	<h2 class="text-danger" style="text-align:center;">
 				Xe máy
@@ -83,15 +88,23 @@
 		</li>
 		<li>
 			Thí sinh thực hiện liên tiếp 4 bài thi, giống hình minh họa hướng dẫn dưới đây:
-			<br>
-			<img src="5.jpg">
+			<br><br><br>
+			<p>
+			<img alt = "Dạng bài thi thực hành xe máy" src = "7.jpg" >
+			</p>
+			<br><br><br>
 		</li>
 		<li>
 			Trong quá trình thực hiện bài thi, thí sinh mắc lỗi sẽ bị trừ điểm theo thang điểm (như hình dưới). Thí sinh có điểm thi thực hành 80 điểm trở lên là đỗ.
-			<br>
-			<img src="6.jpg">
+			<br><br><br>
+			<p style = "text-align: center">
+				<img alt = "Bảng các lỗi khi thi thực hành xe máy" src = "6.jpg" >
+			</p>
 		</li>
 	</ul>
+	<br> 
+		<a href="#" class="btn" type="button">Về đầu trang</a>
+	<br> 
 	<a name = "xeoto"></a>
 	<h2 class="text-danger" style="text-align:center;">
 				Xe ô tô
@@ -227,4 +240,7 @@
 			Trong quá trình thực hiện bài thi, thí sinh sẽ được giám khảo đánh giá và tính điểm. Điểm của thí sinh sẽ  được giám khảo thông báo sau khi hoàn tất bài thi.
 		</li>
 	</ul>
+	<br> 
+		<a href="#" class="btn" type="button">Về đầu trang</a>
+	<br> 
 @stop

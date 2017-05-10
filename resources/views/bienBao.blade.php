@@ -15,10 +15,10 @@
 			<li><a href="#Bienphu" class="btn btn-link" type="button">Biển phụ</a></li>
 			<li><a href="#Vachkeduong" class="btn btn-link" type="button">Vạch kẻ đường</a></li>
 			</ol>
+			<br> 
+				<p></p>
+			<br> 
 			<a name = "Biencam"></a> 
-			<br> 
-			<p></p>
-			<br> 
 			<h3 class="text-danger" style="text-align:center;">
 				Biển báo cấm
 			</h3>
