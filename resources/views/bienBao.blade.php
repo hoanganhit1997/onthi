@@ -4,7 +4,7 @@
     <div class="container">
 	<div class="row">
 		<div class="col-md-12">
-			<h1 style="margin-top: 70px; text-align:center;"><strong class="text-info" >
+			<h1 style="margin-top: 40px; text-align:center;"><strong class="text-info" >
 				Các loại biển báo giao thông đường bộ
 			</strong></h1> 
 			<ol>

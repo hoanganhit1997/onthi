@@ -1,6 +1,6 @@
 @extends('Template/header')
 @section('page')
-	<h1 style="margin-top: 70px; text-align:center;"><strong class="text-info" >
+	<h1 style="margin-top: 40px; text-align:center;"><strong class="text-info" >
 				CÁC MẸO GHI NHỚ
 			</strong></h1> 
 			<ol>
