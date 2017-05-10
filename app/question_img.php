@@ -4,7 +4,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class question_img extends Model {
 
-	protected $table = 'question_img';
+	protected $table = 'ques_img';
 	public $timestamps = false;
 
 }
